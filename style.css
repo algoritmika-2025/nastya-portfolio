@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+img:hover {
+   box-shadow: 3px 5px 10px rgb(130, 149, 176);
+}
+
+
+a:hover {
+   box-shadow: 3px 5px 10px rgb(183, 18, 18);
+}
